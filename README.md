@@ -1,6 +1,6 @@
 <h2>Aluguel de Locações em Nova York</h2>
 
-Projeto aplicado de Análise de Dados e Business Intelligence para a empresa fictícia TudoAqui, com foco na identificação de padrões de preços, volume de acomodações, desempenho, evolução temporal  (de 2011 a 2017) e distribuição geográfica por bairros para o aluguel temporário de locações em Nova York.
+Projeto aplicado de Análise de Dados e Business Intelligence para a empresa fictícia TudoAqui, com foco na identificação de padrões de preços, volume de acomodações, desempenho, evolução temporal  (de 2011 a 2019) e distribuição geográfica por bairros para o aluguel temporário de locações em Nova York.
 <br>
 
 <h2>🔎 O que foi desenvolvido</h2>
