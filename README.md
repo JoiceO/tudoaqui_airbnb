@@ -68,7 +68,11 @@ O projeto contempla todo o fluxo analítico, desde o tratamento dos dados até a
   <li>Preço Final</li>
 </ul>
 
+Visualização estática abaixo:<br>
+<div align ="center"> 
+  <img width="320" alt="Image" src="https://github.com/user-attachments/assets/6b23abfa-3224-44a7-8cab-8ba1eef7b48a" />
+  <img width="320" alt="Image" src="https://github.com/user-attachments/assets/3baba5f7-a9d8-48d5-a51f-261550977af4" />
+  <img width="320" alt="Image" src="https://github.com/user-attachments/assets/8d93b0c5-bf81-4467-a728-a43caf190c52" />
+</div>
 
-<h2>👥 Autoria</h2>
--  <a href="https://github.com/JoiceO">Joice Oliveira</a>
 
